@@ -1,8 +1,3 @@
-
-lists.h
-
-
-
 #include "lists.h"
 
 /**
